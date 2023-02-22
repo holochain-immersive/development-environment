@@ -1,8 +1,8 @@
-# Holochain Immersive: Lesson 6
+# Holochain Immersive: Development Environment
 
 Source code for the lesson slides. Visit the slides here:
 
-https://holochain-immersive.github.io/holochain-lesson-6
+https://holochain-immersive.github.io/development-environment
 
 ## Setup Instructions
 
@@ -15,15 +15,7 @@ npm start
 
 To edit the slides, open `index.html` and edit them.
 
-## Publishing
-
-If you are satisfied with the slides, run this to publish them to github pages:
-
-```bash
-npm run gh-pages
-```
-
 ## Relevant documentation
 
 - [Reveal.js](https://revealjs.com/)
-- [reveal.js-nested-fragments](https://www.npmjs.com/package/reveal.js-nested-fragments)
+- [reveal.js-animate-fragments](https://www.npmjs.com/package/reveal.js-animate-fragments)
